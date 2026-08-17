@@ -67,44 +67,34 @@ Si vous voulez me parler de Linux, SSH, Wazuh, admin réseau ou Git/GitHub, n'h�
   Généré automatiquement via GitHub Actions (Platane/snk).
   Ajoutez ce workflow dans .github/workflows/snake.yml :
 
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-    push:
-      branches: [ main ]
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: lurgurbal
-            outputs: |
-              dist/github-contribution-grid-snake.svg?color_snake=3B82F6&color_dots=0D1117,1E3A8A,2563EB,3B82F6,60A5FA
-              dist/github-contribution-grid-snake-dark.svg?color_snake=3B82F6&color_dots=161B22,1E3A8A,2563EB,3B82F6,60A5FA
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: lurgurbal
+          outputs: |
+           dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%2360A5FA&color_dots=%230D1117,%231E3A8A,%232563EB,%233B82F6,%2360A5FA
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lurgurbal/lurgurbal/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
-<!--
-Pour activer l'animation du serpent :
-1. Crée une GitHub Action dans ce dépôt (lurgurbal/lurgurbal) : .github/workflows/snake.yml (contenu ci-dessus).
-2. L'Action utilise Platane/snk pour régénérer le SVG chaque jour.
-3. Elle commit le fichier généré dans la branche "output" sous :
-   github-contribution-grid-snake.svg
-4. Une fois la branche "output" créée, le lien raw.githubusercontent.com/.../output/... ci-dessus s'affichera automatiquement.
-   ⚠️ Ne jamais pointer vers github.com/.../blob/... — ce lien renvoie une page HTML, pas l'image.
--->
 
 
 ### Une citation au passage
