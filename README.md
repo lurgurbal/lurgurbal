@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Salut,%20moi%20c'est%20lurgurbal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique,%20orient%C3%A9%20cybers%C3%A9curit%C3%A9&descAlignY=58&descSize=16" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:56d4dd,100:2ea043&height=200&section=header&text=Salut,%20moi%20c'est%20lurgurbal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique,%20orient%C3%A9%20cybers%C3%A9curit%C3%A9&descAlignY=58&descSize=16" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56d4dd,100:2ea043&height=200&section=header&text=Salut,%20moi%20c'est%20lurgurbal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique,%20orient%C3%A9%20cybers%C3%A9curit%C3%A9&descAlignY=58&descSize=16" alt="Bannière" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:3B82F6&height=200&section=header&text=Salut,%20moi%20c%27est%20lurgurbal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique,%20orient%C3%A9%20cybers%C3%A9curit%C3%A9&descAlignY=58&descSize=16" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:3B82F6,100:1E3A8A&height=200&section=header&text=Salut,%20moi%20c%27est%20lurgurbal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique,%20orient%C3%A9%20cybers%C3%A9curit%C3%A9&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:3B82F6,100:1E3A8A&height=200&section=header&text=Salut,%20moi%20c%27est%20lurgurbal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique,%20orient%C3%A9%20cybers%C3%A9curit%C3%A9&descAlignY=58&descSize=16" alt="Bannière" />
 </picture>
 
 <p align="center">
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/lurgurbal?label=Abonnés&style=for-the-badge&color=2ea043&logo=github" alt="Abonnés" />
-  <img src="https://img.shields.io/github/stars/lurgurbal?label=Étoiles&style=for-the-badge&color=56d4dd&logo=github" alt="Étoiles" />
-  <img src="https://komarev.com/ghpvc/?username=lurgurbal&label=Visiteurs&style=for-the-badge&color=2ea043" alt="Visiteurs" />
+  <img src="https://img.shields.io/github/followers/lurgurbal?style=for-the-badge&logo=github&label=Followers&color=3B82F6" />
+  <img src="https://img.shields.io/github/stars/lurgurbal?style=for-the-badge&logo=github&label=Stars&color=3B82F6" />
+  <img src="https://komarev.com/ghpvc/?username=lurgurbal&style=for-the-badge&color=3B82F6"/>
 </p>
 
 ### Qui je suis
@@ -51,17 +51,17 @@ Si vous voulez me parler de Linux, SSH, Wazuh, admin réseau ou Git/GitHub, n'h�
   <a href="mailto:lurgurbal.josephmerisier@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-# GitHub Stats:
-![](https://streak-stats.demolab.com/?user=lurgurbal&hide_border=false&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=3B82F6&sideLabels=3B82F6&dates=3B82F6)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lurgurbal&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=3B82F6&text_color=3B82F6&icon_color=3B82F6&cache_seconds=86400)
-
-### Activité
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lurgurbal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=56D4DD&line=2EA043&point=ffffff&cache_seconds=86400" alt="Graphique d'activité" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=lurgurbal&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 </p>
 
-### Contribution
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lurgurbal&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true"/>
+</p>
+
+<h2 align="center">Contribution Graph</h2>
 
 <!--
   Généré automatiquement via GitHub Actions (Platane/snk).
@@ -93,12 +93,19 @@ Si vous voulez me parler de Linux, SSH, Wazuh, admin réseau ou Git/GitHub, n'h�
 -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lurgurbal/lurgurbal/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lurgurbal/lurgurbal/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/lurgurbal/lurgurbal/output/github-contribution-grid-snake.svg" alt="Contribution" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/lurgurbal/lurgurbal/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
+
+<!--
+Pour activer l'animation du serpent :
+1. Crée une GitHub Action dans ce dépôt (lurgurbal/lurgurbal) : .github/workflows/snake.yml (contenu ci-dessus).
+2. L'Action utilise Platane/snk pour régénérer le SVG chaque jour.
+3. Elle commit le fichier généré dans la branche "output" sous :
+   github-contribution-grid-snake.svg
+4. Une fois la branche "output" créée, le lien raw.githubusercontent.com/.../output/... ci-dessus s'affichera automatiquement.
+   ⚠️ Ne jamais pointer vers github.com/.../blob/... — ce lien renvoie une page HTML, pas l'image.
+-->
+
 
 ### Une citation au passage
 
@@ -114,7 +121,7 @@ Si vous voulez me parler de Linux, SSH, Wazuh, admin réseau ou Git/GitHub, n'h�
 <p align="center"><i>Merci de passer par ici — <a href="https://github.com/lurgurbal">lurgurbal</a></i></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=140&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:56d4dd,100:2ea043&height=140&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56d4dd,100:2ea043&height=140&section=footer" alt="Footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:3B82F6&height=140&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:3B82F6,100:1E3A8A&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:3B82F6,100:1E3A8A&height=140&section=footer" alt="Footer" />
 </picture>
