@@ -47,8 +47,8 @@ Si vous voulez me parler de Linux, SSH, Wazuh, admin r√©seau ou Git/GitHub, n'h√
 ### Me contacter
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lurgurbal-joseph-merisier-56583634a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:lurgurbal.josephmerisier@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/handy-joseph-merisier-56583634a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:handy.josephmerisier@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <h2 align="center">GitHub Analytics</h2>
