@@ -1,8 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:3B82F6&height=200&section=header&text=Salut,%20moi%20c%27est%20lurgurbal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique,%20orient%C3%A9%20cybers%C3%A9curit%C3%A9&descAlignY=58&descSize=16" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:3B82F6,100:1E3A8A&height=200&section=header&text=Salut,%20moi%20c%27est%20lurgurbal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique,%20orient%C3%A9%20cybers%C3%A9curit%C3%A9&descAlignY=58&descSize=16" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:3B82F6,100:1E3A8A&height=200&section=header&text=Salut,%20moi%20c%27est%20lurgurbal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique,%20orient%C3%A9%20cybers%C3%A9curit%C3%A9&descAlignY=58&descSize=16" alt="Bannière" />
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for lurgurbal" src="art/header-light.png">
 </picture>
+
+<h1 align="center">
+  Hey there, I'm <span style="color:#EF93C4;">Handy</span>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56D4DD&center=true&vCenter=true&width=715&height=44&lines=%C3%89tudiant%20en%20informatique%2C%20orient%C3%A9%20cybers%C3%A9curit%C3%A9;J'apprends%20en%20construisant%2C%20un%20projet%20%C3%A0%20la%20fois" alt="Typing headline" />
