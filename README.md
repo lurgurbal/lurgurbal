@@ -1,6 +1,6 @@
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for lurgurbal" src="art/header-light.png">
+   <source media="(prefers-color-scheme: dark)" srcset="picture/header-dark.png">
+   <img alt="Logo for lurgurbal" src="picture/header-light.png">
 </picture>
 
 <h1 align="center">
